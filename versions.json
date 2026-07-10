@@ -1,0 +1,20 @@
+{
+  "IND": {
+    "client_url": "https://client.ind.freefiremobile.com/",
+    "server_url": "https://loginbp.ggpolarbear.com/",
+    "release_version": "OB54",
+    "client_version": "1.126.2"
+  },
+  "AMERICA": {
+    "client_url": "https://client.us.freefiremobile.com/",
+    "server_url": "https://loginbp.ggpolarbear.com/",
+    "release_version": "OB54",
+    "client_version": "1.126.2"
+  },
+  "OTHERS": {
+    "client_url": "https://clientbp.ggpolarbear.com/",
+    "server_url": "https://loginbp.ggpolarbear.com/",
+    "release_version": "OB54",
+    "client_version": "1.126.2"
+  }
+}
